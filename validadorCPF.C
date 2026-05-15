@@ -5,7 +5,7 @@ int ehValido(int cpf[]);
 
 int main()
 {
-    // Type here the CPF that do you want to analyze.
+    // Type here the CPF that do you want to analyze!
     int cpf[N] = {1,2,3,4,5,6,7,8,9,0,0};
 
     if(ehValido(cpf))

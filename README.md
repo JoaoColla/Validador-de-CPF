@@ -7,4 +7,3 @@ João Vitor Colla de Souza
 
 ## Codigo em *C para validar CPF (Cadastro de Pessoa Física).
     You just need to type the CPF on line 08 spaced by ",".
-test
